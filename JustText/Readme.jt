@@ -1,0 +1,21 @@
+Just Text Usage
+
+File Format
+file.jt
+
+Quotes
+`String`
+'String'
+"String"
+
+Character Only
+1 + 2 = 3
+
+Line Only
+# To end
+of line
+
+Character Pair Only
+>
+>>
+>>>

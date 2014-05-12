@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string>Joel Carlton</string>
+	<key>name</key>
+	<string>JustText</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#000000</string>
+				<key>caret</key>
+				<string>#FFFFFF</string>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
+				<key>invisibles</key>
+				<string>#404040</string>
+				<key>lineHighlight</key>
+				<string>#083233</string>
+				<key>selection</key>
+				<string>#257E7AE0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Text base</string>
+			<key>scope</key>
+			<string>text</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#434242</string>
+				<key>foreground</key>
+				<string>#FFFFFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>= String</string>
+			<key>scope</key>
+			<string>string</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#000000</string>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#45CE39</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>` String `</string>
+			<key>scope</key>
+			<string>string.interpolated</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#0DB6CC</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string># Comment</string>
+			<key>scope</key>
+			<string>comment</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#0096FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>" Double Quote "</string>
+			<key>scope</key>
+			<string>string.quoted</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C477FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>' String Other '</string>
+			<key>scope</key>
+			<string>string.other</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#4387FF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>>> Next</string>
+			<key>scope</key>
+			<string>entity.other</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#45CE39</string>
+			</dict>
+		</dict>
+	</array>
+	<key>uuid</key>
+	<string>C5E89EAB-5A1B-4D30-95BA-2F0300AC6657</string>
+</dict>
+</plist>
